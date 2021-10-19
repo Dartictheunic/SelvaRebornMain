@@ -5,3 +5,5 @@ SelvaRebornProject/obj/
 SelvaRebornProject/.vsconfig
 SelvaRebornProject/SelvaRebornProject.sln
 SelvaRebornProject/Logs/
+SelvaRebornProject/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+*.log
